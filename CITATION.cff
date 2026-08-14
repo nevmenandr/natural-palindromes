@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: Natural Palindromes
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Boris
+    family-names: Orekhov
+    email: nevmenandr@gmail.com
+    affiliation: HSE University
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+repository-code: 'https://github.com/nevmenandr/natural-palindromes'
+abstract: >-
+  Инструмент для поиска естественных (несконструированных)
+  палиндромов в текстах Национального корпуса русского
+  языка. Алгоритм на Python с фильтрами  (длина ≥10 букв,
+  минимум 2 слова, исключение повторов) находит палиндромы в
+  живой речи, прозе и публицистике. Результаты очищены
+  вручную от бессмысленных последовательностей. Включает
+  обработку основного и газетного корпусов НКРЯ с
+  автоматическим запуском второго скрипта после первого.
+license: MIT
+keywords:
+  - palindromes
+  - russian-language
+  - ruscorpora
+  - natural-language-processing
+  - text-mining
+  - corpus-linguistics
+  - python
+version: '1.0'
+date-released: '2026-08-14'
