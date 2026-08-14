@@ -109,7 +109,6 @@ def is_palindrome(word_sequence):
 ├── CITATION.cff	# Информация для цитирования
 ├── palindromes_found.txt # Результаты из основного корпуса
 ├── palindromes_found2.txt # Результаты из газетного корпуса
-├── requirements.txt	# Зависимости (стандартная библиотека)
 └── src/
     ├── palindromes.py	# Основной скрипт для основного корпуса
     └── palindromes_paper.py # Скрипт для газетного корпуса
