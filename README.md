@@ -1,5 +1,5 @@
 # 🔄 Natural Palindromes
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21934413.svg)](https://doi.org/10.5281/zenodo.21934412) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Ruscorpora](https://img.shields.io/badge/data-Ruscorpora-blue.svg)](https://ruscorpora.ru/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21934412.svg)](https://doi.org/10.5281/zenodo.21934412) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Ruscorpora](https://img.shields.io/badge/data-Ruscorpora-blue.svg)](https://ruscorpora.ru/)
 [![Telegram](https://img.shields.io/badge/Telegram-обсуждение-2CA5E0?logo=telegram)](https://t.me/schonenrede/882)
 
 Поиск **естественных (несконструированных)** палиндромов в текстах [Национального корпуса русского языка](https://ruscorpora.ru/).
@@ -199,6 +199,8 @@ def is_palindrome(word_sequence):
 ## 📎 Ссылки
 
 - [Обсуждение в Telegram-канале](https://t.me/schonenrede/882)
+- [Пост на Coderlegion](https://coderlegion.com/24650/finding-accidental-palindromes-in-130-000-russian-texts)
+- [Пост на dev.to](https://dev.to/nevmenandr/how-i-found-accidental-palindromes-in-130000-russian-texts-and-why-i-didnt-use-manacher-4l05)
 - [НКРЯ — Национальный корпус русского языка](https://ruscorpora.ru/)
 - [Статья о случайных метрах в прозе](https://nevmenandr.github.io/portfolio/assets/pdf/rhythm_prose.pdf)
 - [Коллекция палиндромов на tema.ru](https://www.tema.ru/rrr/palindromes/)
