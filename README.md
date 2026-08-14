@@ -1,6 +1,6 @@
 # 🔄 Natural Palindromes
 
-[![DOI](https://zenodo.org/badge/1156733651.svg)](https://doi.org/10.5281/zenodo.20701309) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Ruscorpora](https://img.shields.io/badge/data-Ruscorpora-blue.svg)](https://ruscorpora.ru/)
+[![DOI](https://zenodo.org/badge/1156733651.svg)](https://doi.org/10.5281/zenodo.21934412) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Ruscorpora](https://img.shields.io/badge/data-Ruscorpora-blue.svg)](https://ruscorpora.ru/)
 [![Telegram](https://img.shields.io/badge/Telegram-обсуждение-2CA5E0?logo=telegram)](https://t.me/schonenrede/882)
 
 Поиск **естественных (несконструированных)** палиндромов в текстах [Национального корпуса русского языка](https://ruscorpora.ru/).

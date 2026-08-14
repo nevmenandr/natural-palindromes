@@ -1,3 +1,6 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
 title: Natural Palindromes
 message: >-
@@ -10,6 +13,9 @@ authors:
     email: nevmenandr@gmail.com
     affiliation: HSE University
     orcid: 'https://orcid.org/0000-0002-9099-0436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21934412
 repository-code: 'https://github.com/nevmenandr/natural-palindromes'
 abstract: >-
   Инструмент для поиска естественных (несконструированных)
@@ -20,7 +26,6 @@ abstract: >-
   вручную от бессмысленных последовательностей. Включает
   обработку основного и газетного корпусов НКРЯ с
   автоматическим запуском второго скрипта после первого.
-license: MIT
 keywords:
   - palindromes
   - russian-language
@@ -29,5 +34,6 @@ keywords:
   - text-mining
   - corpus-linguistics
   - python
+license: MIT
 version: '1.0'
 date-released: '2026-08-14'
